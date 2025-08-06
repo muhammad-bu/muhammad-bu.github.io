@@ -9473,7 +9473,8 @@ textarea.form-control {
   color: #fff;
   letter-spacing: .1em; }
   .post-info > div {
-    display: inline-block; }
+    display: inline-block;
+    margin-right: 10px; }
     .post-info > div .seperator {
       display: inline-block;
       margin: 0 10px;
@@ -9699,8 +9700,225 @@ textarea.form-control {
 }
 
 .resume-list li::before {
-  content: '⦿'; /* Your custom bullet point */
+  content: '';
   position: absolute;
   left: 0;
-  color: #ffbd39; /* A color from your theme */
+  top: 8px;
+  width: 8px;
+  height: 8px;
+  background: #ffbd39;
+  border-radius: 50%;
+}
+
+/* Education Timeline Styles */
+.education-timeline {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+.education-timeline::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: #ffbd39;
+  transform: translateX(-50%);
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.timeline-item:nth-child(odd) {
+  flex-direction: row;
+}
+
+.timeline-item:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.timeline-dot {
+  position: absolute;
+  left: 50%;
+  top: 20px;
+  width: 20px;
+  height: 20px;
+  background: #ffbd39;
+  border: 4px solid #fff;
+  border-radius: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+  box-shadow: 0 0 0 4px rgba(255, 189, 57, 0.2);
+}
+
+.timeline-content {
+  width: 45%;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.timeline-item:nth-child(odd) .timeline-content {
+  margin-right: 55%;
+}
+
+.timeline-item:nth-child(even) .timeline-content {
+  margin-left: 55%;
+}
+
+.timeline-content::before {
+  content: '';
+  position: absolute;
+  top: 20px;
+  width: 0;
+  height: 0;
+  border: 10px solid transparent;
+}
+
+.timeline-item:nth-child(odd) .timeline-content::before {
+  right: -20px;
+  border-left-color: #fff;
+}
+
+.timeline-item:nth-child(even) .timeline-content::before {
+  left: -20px;
+  border-right-color: #fff;
+}
+
+.timeline-date {
+  font-size: 14px;
+  font-weight: 600;
+  color: #ffbd39;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.timeline-content h3 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #000;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+
+.timeline-content .institution {
+  font-size: 14px;
+  color: #666;
+  margin: 0;
+  font-style: italic;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .education-timeline::before {
+    left: 30px;
+  }
+  
+  .timeline-item {
+    flex-direction: row !important;
+    margin-left: 60px;
+  }
+  
+  .timeline-dot {
+    left: 30px;
+    transform: translateX(-50%);
+  }
+  
+  .timeline-content {
+    width: 100%;
+    margin: 0 !important;
+  }
+  
+  .timeline-content::before {
+    left: -20px !important;
+    border-right-color: #fff !important;
+    border-left-color: transparent !important;
+  }
+}
+
+/* Flip Card Styles for Services Section */
+.flip-card {
+  background-color: transparent;
+  width: 100%;
+  height: 300px;
+  perspective: 1000px;
+  margin-bottom: 40px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flip-card-back {
+  transform: rotateY(180deg);
+}
+
+.flip-card-back .desc {
+  width: 100%;
+  padding: 20px;
+}
+
+.service-details {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.service-details li {
+  color: #fff;
+  font-size: 14px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  position: relative;
+}
+
+.service-details li::before {
+  content: '•';
+  color: #ffbd39;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+}
+
+/* Responsive adjustments for flip cards */
+@media (max-width: 768px) {
+  .flip-card {
+    height: 250px;
+  }
+  
+  .service-details li {
+    font-size: 13px;
+    margin-bottom: 8px;
+  }
 }
