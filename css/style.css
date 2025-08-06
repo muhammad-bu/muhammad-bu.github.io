@@ -8456,7 +8456,8 @@ h1, h2, h3, h4, h5,
           .owl-carousel.home-slider .slider-item .slider-text {
             text-align: center; } }
         .owl-carousel.home-slider .slider-item .slider-text .one-third {
-          width: 60%;
+          width: 40%;
+        
           position: relative;
           z-index: -1; }
           .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
@@ -8469,10 +8470,13 @@ h1, h2, h3, h4, h5,
             opacity: 0; }
           @media (max-width: 1199.98px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-third {
-              width: 85%; } }
+              width: 85%; 
+            } }
+              
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-third {
               width: 100%;
+              
               z-index: 0; }
               .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
                 opacity: .3; }
@@ -9682,3 +9686,21 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.resume-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.resume-list li {
+  position: relative;
+  padding-left: 25px; /* Creates space for the custom bullet */
+  margin-bottom: 1rem; /* Creates vertical space between items */
+}
+
+.resume-list li::before {
+  content: '⦿'; /* Your custom bullet point */
+  position: absolute;
+  left: 0;
+  color: #ffbd39; /* A color from your theme */
+}
