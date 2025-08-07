@@ -9949,6 +9949,12 @@ textarea.form-control {
   box-shadow: 0 15px 40px -15px rgba(255, 189, 57, 0.4);
 }
 
+.carousel-certificates .item img {
+  height: 240px;
+  width: 100%;
+  object-fit: cover;
+}
+
 .carousel-certificates .owl-dots {
   margin-top: 25px;
   text-align: center;
