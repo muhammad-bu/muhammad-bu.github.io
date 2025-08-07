@@ -8198,14 +8198,14 @@ h1, h2, h3, h4, h5,
       padding-bottom: 20px;
       margin-right: 0; } }
   .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
-    font-size: 16px;
     padding-top: .7rem;
     padding-bottom: .7rem;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 13px;
+    padding-right: 13px;
     color: #fff;
     font-weight: 400;
-    opacity: 1 !important; }
+    opacity: 1 !important;
+    font-size: 15px; }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link span {
       position: relative;
       display: block;
@@ -9921,4 +9921,51 @@ textarea.form-control {
     font-size: 13px;
     margin-bottom: 8px;
   }
+}
+
+/* Certificate Carousel */
+.carousel-certificates .item {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-certificates .item a {
+  display: block;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px -15px rgba(0, 0, 0, 0.2);
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  border: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+.carousel-certificates .item a:hover {
+  -webkit-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  transform: scale(1.05);
+  box-shadow: 0 15px 40px -15px rgba(255, 189, 57, 0.4);
+}
+
+.carousel-certificates .owl-dots {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.carousel-certificates .owl-dot {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin: 0 5px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.carousel-certificates .owl-dot.active {
+  background: #ffbd39;
 }
