@@ -1,0 +1,116 @@
+## Case Study: Reviving a Dormant South African E-Commerce Store
+
+**From Zero Sales to R119k in Revenue in Just 3 Months with Strategic Google Ads Optimization**
+
+---
+
+### **Overview**
+
+A South Africa–based e-commerce store in the **bedding and furniture** category was struggling to survive. The account had been dormant for 3 months, running loss-making ads with no proper tracking, no conversions, and zero organic traffic. Within just **3 months**, I transformed this stagnant business into a **revenue powerhouse**, generating **R119,000** in sales from an ad spend of only **R7.86k**.
+
+---
+
+### **Client Background**
+
+* **Industry:** Bedding & Furniture
+* **Location:** South Africa
+* **Business Model:** E-commerce (WordPress WooCommerce)
+* **Initial Challenge:** 10–15% loss, zero organic traffic, poorly set up Google Ads campaigns, no conversion tracking
+
+---
+
+### **The Challenge**
+
+When I took over the account, the **Google Ads setup was broken**:
+
+* Managed by the store owner using Google’s default suggestions (low targeting precision)
+* No conversion tracking or e-commerce event tracking
+* No remarketing strategy
+* Only basic Search campaigns with poor targeting
+* Merchant Center not set up, no Shopping campaigns
+
+The store was spending money without measurable ROI and was in danger of shutting down its ad spend entirely.
+
+---
+
+### **My Approach**
+
+#### **1. Full Account & Tracking Overhaul**
+
+* Stopped all existing campaigns immediately
+* Implemented **Google Tag Manager** for e-commerce event tracking
+* Set up **GA4** for complete data visibility
+* Configured **Google Merchant Center** and built product feeds
+
+#### **2. Business & Market Research**
+
+* Studied client’s products, best-sellers, and category structure
+* Conducted competitor analysis in the South African bedding market
+* Identified high-intent buyer segments and geographic hot spots
+
+#### **3. Campaign Strategy**
+
+* **Performance Max Campaign** for full catalog reach
+* **Search Campaigns** for top-performing, high-margin products
+* **Standard Shopping Campaign** for visibility across the product range
+* Used compelling call-to-action messaging targeting urgent purchase intent
+* Distributed budget equally at first, then reallocated to top-performing campaigns
+
+#### **4. Optimization & Scaling**
+
+* Monitored conversion data daily
+* Shifted budget to high-performing cities/regions
+* Reduced spend on underperforming channels (e.g., Shopping when ROI dropped)
+* Used **Target CPA bidding** after collecting enough conversion data
+* Implemented **ad extensions** and **negative keywords** to improve CTR and reduce wasted spend
+
+---
+
+### **Challenges & Insights**
+
+One key challenge was **local buying behavior** — in South Africa, most online purchases occur in the first half of the month. Initially, I launched the campaign in the **last 10 days** of the month and saw slow traction. Once I learned this insight, I shifted **heavier spend to the first 15 days**, significantly boosting conversion volume.
+
+---
+
+### **Results** *(After 3 Months)*
+
+* **Ad Spend:** R7,860
+* **Conversions:** 29
+* **Cost per Conversion:** R271
+* **Conversion Value:** R119,000
+* **ROI:** ~15x
+* **Business Health:** From loss-making to profitable, long-term growth secured
+
+---
+
+### **Client Feedback**
+
+> *“I’m beyond happy with the results. My store’s revenue has come back to life, and I finally have confidence in my ad spend. This is the best our Google Ads have ever performed.”*
+
+---
+
+### **Key Takeaways**
+
+* **Accurate tracking before spending** is non-negotiable for effective optimization
+* Understanding **local buying patterns** can significantly improve budget efficiency
+* Combining **Performance Max** for scale with **Search** for precision is powerful for high-ticket products
+
+---
+
+### **Impact**
+
+This project didn’t just generate R119k in revenue — it **revived a dying online business** and turned it into a profitable operation. The client has now retained me on a **monthly basis** to manage their ongoing paid media strategy.
+
+---
+
+### **Proof Snapshot**
+
+![Babmoo stats](images/Babmoo%20stats)
+
+---
+
+### **Visual Ideas to Enhance the Case Study Page**
+
+1. **Before vs. After Metrics Graphic** – Simple Canva chart showing “Before: R0 revenue / After: R119k revenue.”
+2. **Results Highlight Boxes** – Bold numbers like *+29 Conversions*, *15x ROI*, *R271 CPA*.
+3. **Campaign Timeline Graphic** – Week 1: Tracking → Week 2: Launch → Month 3: R119k revenue.

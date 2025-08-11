@@ -569,101 +569,7 @@
             </p>
           </div>
         </div>
-        <div class="row d-flex">
-          <div class="col-md-4 d-flex ftco-animate">
-            <div class="blog-entry justify-content-end">
-              <a
-                href="single.html"
-                class="block-20"
-                style="background-image: url('images/image_1.jpg')"
-              >
-              </a>
-              <div class="text mt-3 float-right d-block">
-                <div class="d-flex align-items-center mb-3 meta">
-                  <p class="mb-0">
-                    <span class="mr-2">Real Estate</span>
-                    <a href="#" class="mr-2">Google Ads</a>
-                    <a href="#" class="meta-chat"
-                      ><span class="icon-chat"></span> 3 months</a
-                    >
-                  </p>
-                </div>
-                <h3 class="heading">
-                  <a href="single.html"
-                    >Real Estate Agency: 300% Increase in Qualified Leads</a
-                  >
-                </h3>
-                <p>
-                  How strategic Google Ads campaigns helped a real estate agency
-                  generate 300% more qualified leads while reducing cost per
-                  acquisition by 45%.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 d-flex ftco-animate">
-            <div class="blog-entry justify-content-end">
-              <a
-                href="single.html"
-                class="block-20"
-                style="background-image: url('images/image_2.jpg')"
-              >
-              </a>
-              <div class="text mt-3 float-right d-block">
-                <div class="d-flex align-items-center mb-3 meta">
-                  <p class="mb-0">
-                    <span class="mr-2">Healthcare</span>
-                    <a href="#" class="mr-2">Meta Ads</a>
-                    <a href="#" class="meta-chat"
-                      ><span class="icon-chat"></span> 6 months</a
-                    >
-                  </p>
-                </div>
-                <h3 class="heading">
-                  <a href="single.html"
-                    >Dental Practice: 250% ROI with Meta Advertising</a
-                  >
-                </h3>
-                <p>
-                  Comprehensive Meta Ads strategy for a dental practice resulted
-                  in 250% ROI, 180% increase in appointments, and 40% reduction
-                  in cost per lead.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 d-flex ftco-animate">
-            <div class="blog-entry">
-              <a
-                href="case-study-2.html"
-                class="block-20"
-                style="background-image: url('images/image_3.jpg')"
-              >
-              </a>
-              <div class="text mt-3 float-right d-block">
-                <div class="d-flex align-items-center mb-3 meta">
-                  <p class="mb-0">
-                    <span class="mr-2">SAAS</span>
-                    <a href="#" class="mr-2">Multi-Platform</a>
-                    <a href="#" class="meta-chat"
-                      ><span class="icon-chat"></span> 12 months</a
-                    >
-                  </p>
-                </div>
-                <h3 class="heading">
-                  <a href="case-study-2.html"
-                    >SAAS Startup: 400% Growth in User Acquisition</a
-                  >
-                </h3>
-                <p>
-                  Integrated Google Ads and Meta Ads campaign for a SAAS startup
-                  achieved 400% growth in user acquisition with 60% lower
-                  customer acquisition cost.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
+        <div class="row d-flex" id="case-studies-container"></div>
       </div>
     </section>
 
@@ -1160,6 +1066,7 @@
     <script src="js/scrollax.min.js"></script>
     <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
     <script src="js/main.js"></script>
+    <script src="case_studies.js"></script>
     <script>
       (function ($) {
         "use strict";
@@ -1193,6 +1100,23 @@
             500,
             "linear"
           );
+        });
+
+        // Load case studies
+        const container = document.getElementById("case-studies-container");
+        case_studies.case_studies.forEach((study) => {
+          const caseStudyElement = document.createElement("div");
+          caseStudyElement.className = "col-md-4 d-flex";
+          caseStudyElement.innerHTML = `
+            <div class="blog-entry justify-content-end">
+              <a href="single.html?id=${study.id}" class="block-20" style="background-image: url('${study.cover}');"></a>
+              <div class="text mt-3 float-right d-block">
+                <h3 class="heading"><a href="single.html?id=${study.id}">${study.title}</a></h3>
+                <p>${study.description}</p>
+              </div>
+            </div>
+          `;
+          container.appendChild(caseStudyElement);
         });
       })(jQuery);
     </script>
