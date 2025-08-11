@@ -97,8 +97,7 @@
     <section class="ftco-section">
       <div class="container">
         <div class="row">
-          <div class="col-lg-8 ftco-animate" id="case-study-content">
-          </div>
+          <div class="col-lg-8 ftco-animate" id="case-study-content"></div>
           <!-- .col-md-8 -->
           <div class="col-lg-4 sidebar ftco-animate">
             <div class="sidebar-box ftco-animate" id="other-case-studies">
@@ -322,28 +321,37 @@
     <script src="case_studies.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
     <script>
-      document.addEventListener("DOMContentLoaded", function() {
+      document.addEventListener("DOMContentLoaded", function () {
         const urlParams = new URLSearchParams(window.location.search);
-        const caseStudyId = parseInt(urlParams.get('id'));
+        const caseStudyId = parseInt(urlParams.get("id"));
 
         if (caseStudyId) {
-          const caseStudy = case_studies.case_studies.find(study => study.id === caseStudyId);
+          const caseStudy = case_studies.case_studies.find(
+            (study) => study.id === caseStudyId
+          );
           if (caseStudy) {
-            const container = document.getElementById('case-study-content');
-            const converter = new showdown.Converter();
+            const container = document.getElementById("case-study-content");
+            const converter = new showdown.Converter({
+              tables: true,
+              strikethrough: true,
+            });
             const htmlContent = converter.makeHtml(caseStudy.content);
             document.title = caseStudy.title;
             container.innerHTML = `
               <h2 class="mb-3" style="color: #ffbd39">${caseStudy.title}</h2>
+              <p><img src="${caseStudy.cover}" alt="${caseStudy.title}" class="img-fluid"></p>
               ${htmlContent}
             `;
           }
 
-          const otherCaseStudiesContainer = document.getElementById('other-case-studies');
-          const otherStudies = case_studies.case_studies.filter(study => study.id !== caseStudyId);
-          otherStudies.forEach(study => {
-            const studyElement = document.createElement('div');
-            studyElement.className = 'block-21 mb-4 d-flex';
+          const otherCaseStudiesContainer =
+            document.getElementById("other-case-studies");
+          const otherStudies = case_studies.case_studies.filter(
+            (study) => study.id !== caseStudyId
+          );
+          otherStudies.forEach((study) => {
+            const studyElement = document.createElement("div");
+            studyElement.className = "block-21 mb-4 d-flex";
             studyElement.innerHTML = `
               <a class="blog-img mr-4" style="background-image: url(${study.cover});"></a>
               <div class="text">

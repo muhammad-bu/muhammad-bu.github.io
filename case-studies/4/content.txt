@@ -1,0 +1,149 @@
+**From $1K to 57 new patients — scaling a pain clinic’s growth with smart Google Ads.**
+
+
+**Client:** SPOT Pain Management Clinic  
+**Location:** Plano, Longview, Arlington, Tyler, Texas  
+**Campaign Type:** Google Search Ads (Conversion Focused)  
+**Initial Budget:** $1,000/month  
+**Goal:** Generate quality, high-intent leads that convert into paying patients.
+
+----------
+
+### **Background**
+
+In June 2023, SPOT Pain Management Clinic approached me with no prior experience in paid advertising. This was their first-ever Google Ads campaign, and their expectations were both high and naive — believing that spending $1,000 would instantly bring in 100 new patients.
+
+The challenge was clear:
+
+-   No account history or data
+    
+-   Limited budget for a competitive medical niche
+    
+-   Client’s lack of marketing knowledge
+    
+-   Strict Google Ads policies for medical terms
+    
+
+----------
+
+### **Phase 1: Building From Scratch (June – September 2023)**
+
+**Strategy:**  
+I began with competitor and market research to understand what worked in the local pain management market. Then I launched **search campaigns targeting service-based, high-intent keywords**, supported by dedicated landing pages.
+
+-   Started with **Max Clicks + Responsive Search Ads** to collect data quickly
+    
+-   Structured ad groups by service type (e.g., regenerative medicine, minimally invasive procedures)
+    
+-   Targeted a **30-mile radius** around each city for maximum coverage
+    
+
+**Key Milestones:**
+
+-   First month: 3–5 paying customers from a $1,000 budget
+    
+-   August: Client insisted on **Call-Only Ads** to get “real patients” on the phone
+    
+-   Results: Good ROAS but poor conversion due to the client’s weak follow-up skills
+    
+
+**Solution:**  
+I personally hired a **Virtual Assistant (VA)** to call every lead, recovering **13 paying customers** from otherwise wasted inquiries.
+
+----------
+
+### **Phase 2: Turning the Corner (October – November 2023)**
+
+By October, I had shifted from broad targeting to **high-intent service keywords** despite higher CPCs ($10–$40 per click).
+
+-   October: Achieved a **28.1% conversion rate**, but profitability still needed improvement
+    
+-   November: Breakthrough month — **41 leads** generated, **23 paying customers**
+    
+-   Confidence in targeting and ad structure grew significantly
+    
+
+----------
+
+### **Phase 3: Scaling & Crisis Management (December 2023)**
+
+With proven results, I increased the budget from $1,000 to $2,500 to accelerate growth.
+
+-   December: $3.46K spent → 87 leads → 57 paying customers
+    
+-   Challenge: Google Ads account **suspended** due to use of medical procedure terms in ad copy (e.g., “Kyphoplasty,” “MILD,” “COOLIEF”)
+    
+-   Suspension lasted 15–25 days
+    
+
+**Pivot:**  
+While resolving the suspension, I leveraged **organic marketing** with help from a colleague, generating **5–7 paying customers** without ad spend.  
+I revised ad copy and landing pages to meet Google compliance, restoring the account.
+
+----------
+
+### **Phase 4: Precision Under Budget Cuts (January 2024)**
+
+In January, the client went on vacation and reduced the budget to $1,500.
+
+-   Spent $1,480 → 53 leads generated
+    
+-   Maintained both **lead volume and quality** despite lower spend
+    
+-   Campaigns resumed normal performance within **10 days** post-suspension
+    
+
+----------
+
+### **Core Strategic Moves**
+
+1.  **Competitor & Market Research First** – Mapped out competitor offers, ad structures, and keyword gaps before launch.
+    
+2.  **High-Intent Service Segmentation** – Separate ad groups + landing pages for each service.
+    
+3.  **Broad-to-Precise Targeting Transition** – Started broad for data, then tightened targeting for quality.
+    
+4.  **Budget Reallocation to Winners** – Shifted spend toward top-performing services and keywords.
+    
+5.  **Crisis Management During Suspension** – Leveraged organic marketing + compliance fixes to keep revenue flowing.
+    
+6.  **Lead Conversion Support** – Added a VA to follow up with inquiries, turning lost leads into paying customers.
+    
+
+----------
+
+### **Results Snapshot**
+| Month     | Budget   | Leads | Paying Customers | Notes                                  |
+|-----------|----------|-------|------------------|----------------------------------------|
+| Jun 2023  | $1,000   | ~15   | 3–5              | Launch month, learning phase           |
+| Aug 2023  | $1,000   | ~20   | Poor conversions | Client insisted on call-only ads       |
+| Sep 2023  | $1,000   | ~25   | 13 recovered     | VA follow-ups                          |
+| Nov 2023  | $1,200   | 41    | 23               | Breakthrough month                     |
+| Dec 2023  | $3,460   | 87    | 57               | Scaling + suspension                   |
+| Jan 2024  | $1,480   | 53    | ~35              | Budget reduced                         |
+
+
+----------
+
+### **Google Dashboard Snapshot**
+
+![Google Ads Results](images/PMSC.png)
+
+----------
+
+### **Key Takeaways**
+
+-   **Education is part of client success** — guiding first-time advertisers is as important as running the ads.
+    
+-   **Follow-up is gold** — poor lead conversion can destroy ROI, even with good campaigns.
+    
+-   **Compliance matters** — knowing Google’s medical ad rules can save weeks of downtime.
+    
+-   **Scaling needs confidence** — only increase budgets when quality is proven.
+    
+
+----------
+
+### **Final Outcome**
+
+From zero advertising experience to a profitable, scalable lead generation system, SPOT Pain Management Clinic now runs a consistent Google Ads strategy that balances quality, volume, and compliance. This campaign proved that with the right structure, quick pivots, and strategic follow-up, even small-budget accounts in competitive niches can achieve significant ROI.

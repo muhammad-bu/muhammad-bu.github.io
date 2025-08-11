@@ -9975,3 +9975,38 @@ textarea.form-control {
 .carousel-certificates .owl-dot.active {
   background: #ffbd39;
 }
+#case-study-content table {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-collapse: collapse;
+}
+
+#case-study-content th,
+#case-study-content td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+
+#case-study-content thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6;
+}
+
+#case-study-content tbody + tbody {
+  border-top: 2px solid #dee2e6;
+}
+
+#case-study-content table,
+#case-study-content th,
+#case-study-content td {
+    border: 1px solid #dee2e6;
+}
+
+#case-study-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
