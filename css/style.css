@@ -10004,7 +10004,7 @@ textarea.form-control {
 }
 
 #case-study-content img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
   border-radius: 5px;
   margin-top: 1rem;

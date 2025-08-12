@@ -1,0 +1,112 @@
+**From Zero Paid Ads to 5.17M PKR in Sales and 10.19 ROAS**
+
+*   **Client:** Organic Skincare Brand
+*   **Location:** Pakistan
+*   **Campaign Type:** Multi-Channel (Google Search Ads, Display, Facebook Ads)
+*   **Initial Budget:** 50,000 PKR/month
+*   **Goal:** Build a profitable, scalable paid advertising channel from scratch.
+
+### **Background**
+During the pandemic, a Pakistani e-commerce brand specializing in a pack of three organic skincare products (sunscreen, moisturizer, and serum) was experiencing decent success. Their sales were driven entirely by organic efforts on Instagram and WhatsApp, but the process was manual and difficult to scale.
+
+As their first-ever paid marketing professional (and my first client), the challenge was to create a structured and profitable ad system that could capitalize on the high demand and build a consistent revenue stream beyond their existing organic channels.
+
+### **The Challenge**
+The core problems to solve were:
+
+-   **No Pre-existing Data:** Starting with a brand new Google Ads account meant no historical data to inform bidding or targeting.
+    
+-   **Limited Budget & Cautious Client:** The initial 50,000 PKR budget was small for a high-growth goal, requiring a meticulous, low-risk approach.
+    
+-   **Navigating a New Environment:** This was a first-time experience for both the client and me, necessitating a flexible and collaborative process.
+    
+
+### **Phase 1: Building the Foundation (Months 1-2)**
+
+My initial focus was on establishing a bulletproof foundation.
+
+**Strategy:**
+
+-   **Full Tracking Overhaul:** Implemented comprehensive e-commerce event tracking (Add to Cart, Purchase, Begin Checkout) using Google Tag Manager and Google Analytics.
+
+-   **Cautious Bidding:** Started all Google Search campaigns with manual CPC bidding. This allowed me to gain a deep understanding of keyword performance, cost, and conversion metrics before trusting an automated system.
+    
+-   **Multi-Channel Launch:** Simultaneously launched a "high-budget" Facebook Ads campaign to generate immediate sales and build audience data, while Google Ads focused on capturing high-intent search traffic.
+    
+
+**Key Milestones:**
+
+-   The first 1.5 months were a critical learning phase, gathering essential data on customer behavior and profitable keywords.
+    
+-   The initial 50,000 PKR monthly budget was split evenly between Google and Facebook to test both channels' effectiveness.
+    
+
+### **Phase 2: Strategic Pivots & Breakthroughs (Months 3-5)**
+
+With a solid foundation and some initial data, it was time to optimize and scale.
+
+**Strategy:**
+
+-   **Bidding Transition:** After 1.5 months of collecting data, I confidently switched the Google Ads campaigns from manual CPC to smart bidding strategies (Maximize Conversions and Maximize Conversion Value). This immediately boosted performance by leveraging Google's AI to find more valuable customers.
+    
+-   **Calculated Experiment & Failure:** In Month 4, I launched a Dynamic Search Campaign to capture long-tail search queries. However, it failed to generate a healthy ROAS and had a high CPC. I quickly identified this as a non-starter.
+    
+-   **The Successful Pivot:** Instead of letting the DSA campaign fail, I paused it and launched new, highly granular Search campaigns targeting specific, individual products within their e-commerce store. This pivot was the breakthrough, leading to a significant jump in sales and ROAS.
+    
+
+### **Phase 3: Scaling & Maintaining Performance (Months 6-8)**
+
+With a proven strategy, the focus shifted to sustaining growth and maximizing return.
+
+**Strategy:**
+
+-   **Dynamic Budgeting:** Based on the performance of each platform, I stopped the 50/50 budget split and dynamically reallocated the budget monthly. Money was consistently moved to the channel that delivered the highest sales and ROAS.
+    
+-   **Audience Synergy:** A key tactic was to use Google's audience data to build powerful Custom Audiences for the Facebook Ads campaigns, creating a powerful synergy between the two platforms.
+    
+-   **Consistent Optimization:** My routine involved daily monitoring of ROAS, keyword performance, and search term reports, ensuring the campaigns were consistently refined to eliminate wasted spend and capitalize on winning opportunities.
+    
+
+### **Core Strategic Moves**
+
+-   **Holistic Multi-Channel Strategy:** Blended Google Search, Display Remarketing, and Facebook Ads to capture both existing demand and build new demand.
+    
+-   **Data-Driven Bidding:** Began with manual bidding to learn, then shifted to automated bidding for scaling and efficiency.
+    
+-   **Agile Pivots:** Abandoned a failing DSA campaign quickly in favor of a more granular, high-performing strategy.
+    
+-   **Dynamic Budgeting:** Moved budget from underperforming channels to top-performing ones, maximizing ROI.
+    
+-   **Strategic Collaboration:** Collaborated with an SEO expert to optimize landing pages and outsourced ad copy creation, leveraging expertise where needed.
+    
+
+### **Results Snapshot**
+
+
+| Month | Budget (PKR) | Sales (PKR) | ROAS | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Months 1-2** | 100,000 | 750,000 | 7.5 | Launch & learning phase with manual bidding |
+| **Months 3-4** | 120,000 | 1,400,000 | 11.6 | Switched to smart bidding, saw a big jump |
+| **Month 5** | 70,000 | 500,000 | 7.1 | DSA campaign failure led to a temporary budget cut |
+| **Month 6** | 75,000 | 1,000,000 | 13.3 | Pivoted to new product-specific campaigns |
+| **Months 7-8** | 142,000 | 1,520,000 | 10.7 | Scaling and dynamic budget allocation |
+
+
+### **Google Dashboard Snapshot**
+
+![Google Ads Results](images/scc-results.jpg)
+
+----------
+### **Key Takeaways**
+
+-   **Trust and Free Hand:** Having an understanding and trusting client who gives you the freedom to experiment and learn is crucial for success.
+    
+-   **Listen to the Data:** A data-driven approach isn't just about what works, but also about having the courage to stop what isn't working—like the DSA campaign.
+    
+-   **Start Cautiously, Scale with Confidence:** Beginning with a manual strategy to collect data and build confidence is a smart approach for new accounts before leveraging automated tools for scaling.
+
+### **Final Outcome**
+
+Over an 8-month period, the campaigns generated over **5.17 million PKR in sales** from an ad spend of **507,000 PKR**, yielding a powerful **10.19 ROAS**. The client was extremely happy with the results.
+
+The ultimate testament to this success was an unexpected outcome: the client decided to sell the entire running business. The profitable, scalable paid media system I built was a key factor in making the company a valuable asset, proving that smart marketing can build a sellable brand.

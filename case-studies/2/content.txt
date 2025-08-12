@@ -1,1 +1,81 @@
-...
+**From Zero Sales to a 10x ROAS in Just 2 Weeks**
+
+*  **Client:** E-commerce Business (Kitchen Category) 
+*  **Location:** South Africa 
+*  **Campaign Type:** Multi-Channel (Performance Max, Search, Display Remarketing) 
+*  **Initial Problem:** Existing campaigns running with zero revenue. 
+*  **Goal:** Revive campaigns, generate sales, and achieve a profitable Return on Ad Spend (ROAS).
+
+### **Background**
+
+An e-commerce business specializing in the kitchen category was struggling to generate sales from its Google Ads account. The campaigns had been set up and managed by the client themselves for an extended period, consuming budget without producing a single Rand in revenue. Desperate for a solution, they connected with me on Upwork to turn their ad spend into a profitable investment.
+
+### **The Challenge**
+
+My initial audit revealed a campaign that was fundamentally broken. The core issues were:
+
+-   **Broken Campaign Structure:** The campaigns lacked a cohesive, organized strategy.
+    
+-   **Poor Targeting:** Ads were not reaching the right audience, leading to irrelevant clicks and wasted budget.
+    
+-   **Ineffective Creative:** The ad copies and calls-to-action were weak and failed to compel users to purchase.
+    
+-   **No Conversion Tracking:** There was no proper tracking in place to measure the true value of a conversion, making optimization impossible.
+    
+
+The challenge was to execute a rapid, high-impact overhaul in a short timeframe to prove the value of strategic ad management.
+
+### **My Strategic Approach**
+
+I took over the account on May 13th and immediately implemented a phased approach to get the campaign back on track.
+
+1.  **Total Foundation Overhaul:** My very first step was to pause all existing campaigns. I then correctly set up a new GA4 property and implemented robust conversion and event tracking via Shopify and Google Tag Manager. This non-negotiable step ensured every purchase and valuable website action was being measured accurately. I also configured the Google Merchant Center to ensure product data was being fed correctly.
+    
+2.  **Performance Max for Rapid Scale:** Leveraging my prior experience with PMax campaigns, I launched a new campaign with a focus on highly targeted locations within South Africa. This powerful campaign type allowed us to quickly tap into high-intent audiences across Google's entire network (Search, Display, YouTube, Gmail) and generate immediate results.
+    
+3.  **Sophisticated Funnel Strategy:** To maximize the value of every website visitor, I built a three-part display remarketing funnel:
+    
+    -   **Top of Funnel (20% Budget):** Targeted new, cold audiences to generate brand awareness.
+        
+    -   **Middle of Funnel (30% Budget):** Retargeted visitors who browsed products to remind them of their interest.
+        
+    -   **Bottom of Funnel (50% Budget):** Aggressively retargeted cart abandoners with a higher budget to drive them back to complete their purchase.
+        
+4.  **Strategic Adjustments:** I discovered early on that Shopping ads, while effective in other regions, were not performing well in the South African market. I quickly pivoted to focus on the PMax and Search campaigns, which were yielding a much better return.
+    
+
+### **The Results**
+
+The strategic overhaul paid off almost instantly. The campaign's performance was completely transformed in just over two weeks.
+
+-   **Total Ad Spend:** R6,500
+    
+-   **Total Revenue Generated:** R70,000+
+    
+-   **Return on Ad Spend (ROAS):** **10+**
+    
+-   **Cost Per Click (CPC):** Remained stable at R1.59
+
+### **Google Dashboard Snapshot**
+
+![Google Ads Results](images/yupp-st.jpg)
+    
+
+By the end of May, the client's business had gone from zero revenue to a consistent and highly profitable sales channel, demonstrating the tangible impact of strategic optimization and management.
+
+### **Core Strategic Moves**
+
+-   **Data First:** The campaign was a success because it started with a clean, accurate conversion tracking setup.
+    
+-   **Strategic PMax:** Leaning on experience, Performance Max was used as the primary engine for rapid, high-quality sales.
+    
+-   **Funnel-Based Remarketing:** A three-stage funnel was used to systematically bring back potential customers and maximize conversion rates.
+    
+-   **Adaptive Strategy:** Quickly identified and reduced investment in underperforming channels (Shopping ads) to focus on what was working.
+    
+-   **Client Collaboration:** Building trust with the client allowed for the "free hand" needed to execute a successful, high-impact turnaround.
+    
+
+### **Final Outcome**
+
+The initial two-week success was not a one-off. The client was so impressed by the rapid and profitable turnaround that they retained my services on a long-term basis. This project, which began as a quick fix, evolved into a two-year partnership on Upwork, built on trust and consistent results.

@@ -1,1 +1,110 @@
-...
+ **Scaling First Home Buyer & Refinance Leads with Meta Ads**
+
+*  **Client:** Multi Choice Mortgage 
+*  **Industry:** Financial Services 
+*  **Location:** Australia (NSW, VIC, QLD) 
+*  **Campaign Type:** Meta Ads (Facebook & Instagram) 
+*  **Goal:** Generate 30+ high-quality, exclusive leads per month for First Home Buyer and Refinancing offers.
+
+### **The Client & The Challenge**
+
+In March 2024, Multi Choice Mortgage, a provider of First Home Buyer loans and Refinancing options, approached us with a clear objective: to kick off their digital lead generation strategy. This was their first-ever experience with paid advertising. They needed a structured approach to generate a consistent volume of high-quality leads in a highly competitive Australian financial services market, all while maintaining a sustainable cost per lead (CPL).
+
+### **My Strategic Execution**
+
+We implemented a 3-phase strategic approach to methodically test, optimize, and scale their Meta Ads campaigns.
+
+#### **Phase 1: Testing & Validation**
+
+We began by launching campaigns with a modest budget of $30/day per campaign to gather initial data. Our focus was on testing various creative formats and targeting strategies to find what resonated most with potential clients.
+
+-   **Campaign Structure:** We segmented campaigns by state (NSW, Victoria, QLD) to tailor messaging to local regulations and grants.
+    
+-   **Ad Formats:** We tested static ads and different landing pages built with GHL, as well as Meta Lead Forms.
+    
+-   **Audience Targeting:** We created distinct audience segments for First Home Buyers (age 18–50) and Refinancing (age 25–48), targeting interests like 'Mortgage Loans' and 'First Home Owner Grant.'
+    
+
+**Result:** The First Home Buyer campaigns immediately stood out, significantly outperforming refinancing campaigns in both CPL and lead quality.
+
+#### **Phase 2: Optimization & Scaling**
+
+With clear winners identified, we moved to streamline the campaign and reduce the acquisition cost.
+
+-   We aggressively scaled the winning First Home Buyer ad sets and paused all underperformers.
+    
+-   Based on lead quality feedback, we paused the underperforming GHL landing pages and focused exclusively on Meta Lead Forms, which generated a higher quality of lead.
+    
+-   During this phase, we optimized the CPL from the initial **$15** down to **$10–$12**.
+    
+
+#### **Phase 3: Creative Evolution & Breakthrough**
+
+We recognized that even better performance could be unlocked with more engaging creative. We worked closely with the client to produce dynamic content.
+
+-   We encouraged the client to record simple, direct-to-camera videos explaining their offers.
+    
+-   We professionally edited the videos, adding headers, footers, background music, and subtitles to maximize engagement.
+    
+-   We continued running our most successful static ads alongside the new video creatives.
+    
+
+**Result:** The launch of the new video ads marked our biggest breakthrough. The CPL dropped to just **$5**, representing a **50% improvement** from the previous phase and a **66% drop** from our initial cost.
+
+### **Ad Messaging & Creative**
+
+We developed highly targeted messaging that spoke directly to the client's core audience.
+
+**Best Performing Static Ad Copy (Example):**
+
+> 🏡 **Your Dream Home Awaits: Get closer to your first home with just $13K of your own savings!** 
+> Benefit from first home buyer government grants offering up to **$30K** cash towards your purchase and the First Home Guarantee, which waives Lender Mortgage Insurance **(LMI)**. 
+> Click **"Learn More"** to Discover Your Eligibility Today!
+
+**Best Performing Video Content (Summary):**
+
+-   Spoke directly to the camera, building trust and credibility.
+    
+-   Clearly covered key benefits: a 5% deposit and no LMI.
+    
+-   Explained eligibility requirements (e.g., Australian citizenship) to pre-qualify leads.
+    
+
+### **Core Strategic Moves**
+
+-   **Structured Testing:** The phased approach allowed us to methodically test and validate different platforms and creative formats without wasting budget.
+    
+-   **Data-Driven Decisions:** We quickly dropped underperforming creatives and focused on the Meta Lead Form, which proved to be a superior format for lead quality.
+    
+-   **Creative Evolution:** The transition from static images to professionally edited video content was the key to a dramatic reduction in CPL.
+    
+-   **Sophisticated Tracking:** We integrated with the client’s CRM (via GHL) and used Offline Conversions to optimize our campaigns based on true lead quality, not just CPL.
+
+
+
+### Performance Metrics
+
+| Metric | Value |
+| :--- | :--- |
+| Initial CPL | $15 (Static Only) |
+| Optimized CPL | $10–$12 (Static) |
+| Final CPL | $5 (With Videos) |
+| Total Leads (Apr–Jun 2024) | 158 (First Home Buyer only) |
+| Total CPL Drop | 66% |
+
+-   **Total Leads (Apr–Jun 2024):** 158
+    
+-   **Lead Focus:** Primarily First Home Buyer leads due to their superior quality and lower cost.
+    
+-   **Total CPL Drop:** **66%**
+
+### **Meta Dashboard Snapshot**
+
+![Meta Ads Results](images/multi-stats.png)
+    
+
+### **Conclusion**
+
+Our continuous testing and agile optimization ensured that even a first-time advertiser could scale effectively in a competitive niche. The transformation from static ads to well-edited video campaigns helped Multi Choice Mortgage dramatically reduce its acquisition cost and improve lead quality.
+
+This project was a resounding success, culminating in a **66% drop in CPL**, a consistent volume of high-quality leads, and, most importantly, **long-term client retention**.
