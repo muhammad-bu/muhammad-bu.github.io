@@ -67,7 +67,7 @@
 
 
 		$(document).on('click', 'a[href*="#"]', function(event) {
-	    if (this.hash !== "") {
+	    if (this.hostname === window.location.hostname && this.pathname === window.location.pathname && this.hash !== "") {
 	      event.preventDefault();
 
 	      var hash = this.hash;
