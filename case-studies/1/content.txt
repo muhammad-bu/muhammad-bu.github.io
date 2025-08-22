@@ -105,10 +105,3 @@ This project didn’t just generate R119k in revenue — it **revived a dying on
 
 ![Babmoo stats](images/Babmoo%20stats)
 
----
-
-### **Visual Ideas to Enhance the Case Study Page**
-
-1. **Before vs. After Metrics Graphic** – Simple Canva chart showing “Before: R0 revenue / After: R119k revenue.”
-2. **Results Highlight Boxes** – Bold numbers like *+29 Conversions*, *15x ROI*, *R271 CPA*.
-3. **Campaign Timeline Graphic** – Week 1: Tracking → Week 2: Launch → Month 3: R119k revenue.
