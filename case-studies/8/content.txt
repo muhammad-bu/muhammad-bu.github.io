@@ -28,33 +28,18 @@ I didn't just drive traffic; I built a precision lead-capture and routing archit
 
 ### **Performance Metrics (Campaign Overview)**
 
-**Metric**
+| Metric | Result |
+| :--- | :--- |
+| **Total Leads Generated** | 169 |
+| **Direct Phone Calls** | 149 (88.1%) |
+| **Form Inquiries** | 17 |
+| **Direct Messages** | 3 |
+| **Explicitly Verified Quotable Leads** | 13 |
+| **Estimated Total Quotable Potential (incl. 30–35% of "Not Set")** | 55 – 62 Leads |
 
-**Result**
+### **WhatConverts Dashboard Snapshot**
 
-**Total Leads Generated**
-
-**169**
-
-**Direct Phone Calls**
-
-**149 (88.1%)**
-
-**Form Inquiries**
-
-**17**
-
-**Direct Messages**
-
-**3**
-
-**Explicitly Verified Quotable Leads**
-
-**13**
-
-**Estimated Total Quotable Potential (incl. 30–35% of "Not Set")**
-
-**55 – 62 Leads**
+![Ads Results](images/allprostats.png)
 
 ### **The "Why It Worked" Summary**
 
